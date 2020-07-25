@@ -1,4 +1,4 @@
-# Built application files
+t# Built application files
 *.apk
 *.ap_
 *.aab
@@ -51,6 +51,7 @@ captures/
 .idea/encodings.xml
 .idea/misc.xml
 .idea/runConfigurations.xml
+.idea/jarRepositories.xml
 # DB Navigator plugin
 .idea/dbnavigator.xml
 # Android Studio 3 in .gitignore file.
@@ -91,3 +92,7 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+#OS X files
+*.DS_Store
+
